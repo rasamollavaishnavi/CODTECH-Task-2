@@ -1,6 +1,10 @@
+**Name:RASAMOLLA VAISHNAVI
+Company Name:CODTECH IT SOLUTIONS
+ID:CT4MTDSO36
+Domain:ARTIFICAL INTELLIGENCE
+Duration:August-December**
 
 # Model Evaluation Process
-
 This repository contains a Jupyter Notebook that performs evaluation of machine learning models. The focus is on analyzing the performance of trained models and comparing their metrics to determine the most suitable model for a given task.
 
 ## Table of Contents
